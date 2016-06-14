@@ -1,7 +1,11 @@
 <h1>Hangman v2.0</h1>
 <h2>Now with bad ASCII art!</h2>
 <br>
-<p>The game is run in the terminal. Enter 'ruby play.rb' into the terminal.</p>
+
+<p>Step 1: 'git clone git@github.com:mtsafer/Hangman.git'</p>
+<p>Step 2: 'cd Hangman'</p>
+<p>Step 3: 'ruby play.rb'</p>
+
 <p>The game will ask you if you want to load a game, enter 'y' or 'n' for yes or no respectively.</p>
 <br>
 <h4>Type 'save' at any point to save.</h4>
